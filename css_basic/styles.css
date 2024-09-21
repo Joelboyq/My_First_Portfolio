@@ -15,11 +15,11 @@ main{
   flex: auto;
 }
 article {
-  flex: 2;
+  width: 70%;
   overflow-y: auto;
 }
 aside {
-  flex: 1;
+  width: 30%;
   overflow-y: auto;
 }
 header, footer {
